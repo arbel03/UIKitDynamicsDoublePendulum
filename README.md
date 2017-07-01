@@ -6,7 +6,9 @@ A small repository as an example for UIKitDynamics
 <li>Attachment Behavior</li>
 </ul>
 
-<img src="http://i0.wp.com/triviaquizmaker.com/wp-content/uploads/2016/11/IMG_0494.png?w=1000">
+![Screenshot 1](/screen1.png?raw=true "Screenshot 1")
+![Screenshot 2](/screen2.png?raw=true "Screenshot 2")
+![Screenshot 3](/screen3.png?raw=true "Screenshot 3")
 
 <pre>I know it's buggy, that's the best I could get using UIKitDynamics,
 Sprite Kit or Scene Kit(Would be awesome!) can be used to replicate this project too.</pre>
